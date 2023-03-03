@@ -44,6 +44,6 @@ C:/Users/<username>/Documents/Derivative/Plugins
 
 On macOS the location is:
 
-````
-/Users/<username>/Library/Application Support/Derivative/TouchDesigner099/Plugins```
-````
+```
+/Users/<username>/Library/Application Support/Derivative/TouchDesigner099/Plugins
+```
